@@ -1,0 +1,1 @@
+type Payload = dict[str, any]
