@@ -6,7 +6,7 @@ authors = ["rahul007-bit <yadavrahul8141@yahoo.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.10"
 pyarrow = "^15.0.0"
 pandas = "^2.2.1"
 numpy = "^1.26.4"
